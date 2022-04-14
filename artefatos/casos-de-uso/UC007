@@ -1,0 +1,10 @@
+# UC007 - Visualizar tickets
+## Atores
+- RH
+## Descrição
+- O RH poderá visualizar todas as solicitações feitas por ticket pelos funcionários.
+## Fluxo básico   
+- 1: O usuário clica no botão "Solicitações" na barra de navegação;
+- 2: O usuário é redirecionado à uma lista de tickets que estão em aberto para processamento.
+## Pré-condições
+- O usuário deve estar logado.
